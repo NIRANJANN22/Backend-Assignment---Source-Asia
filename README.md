@@ -15,7 +15,7 @@ This project implements two required backend services:
 
 ```bash
 # Clone repository
-git clone https://github.com/vikrammadhikunta/niranjan_sourceasia.git
+git clone (https://github.com/NIRANJANN22/Backend-Assignment---Source-Asia.git)
 cd source-asia-backend
 
 # Install dependencies
